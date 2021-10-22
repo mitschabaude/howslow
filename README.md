@@ -31,7 +31,7 @@ Average of 50x after warm-up of 10x:
 8.53 ± 0.12 ms
 ```
 
-We have two different metrics which can both be important performance considerations: For example, "first run after start" can indicate how long something would take on page load. The warmed-up, averaged timing is relevant for code that runs often. The latter is usually much faster because it can benefit from compiler optimization.
+We have two different metrics which can both be important performance considerations: For example, "first run after start" can indicate how long something would take on page load. The warmed-up, averaged timing is relevant for code that runs often. The latter is usually much faster because it can benefit from JIT compilation.
 
 ## Multiple timings
 
