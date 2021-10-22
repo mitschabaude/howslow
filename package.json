@@ -1,0 +1,21 @@
+{
+  "name": "howslow",
+  "version": "0.1.0",
+  "description": "Simple JS performance testing",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitschabaude/howslow.git"
+  },
+  "keywords": [
+    "speed",
+    "performance",
+    "test",
+    "testing"
+  ],
+  "author": "Gregor Mitscha-Baude",
+  "license": "MIT",
+  "homepage": "https://github.com/mitschabaude/howslow"
+}
