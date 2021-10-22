@@ -15,6 +15,10 @@
     "test",
     "testing"
   ],
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "author": "Gregor Mitscha-Baude",
   "license": "MIT",
   "homepage": "https://github.com/mitschabaude/howslow"
